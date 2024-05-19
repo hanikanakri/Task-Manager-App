@@ -26,6 +26,30 @@ Key Features:
    CRUD operations, input validation, state management, and network requests. Use mock
    responses for testing against reqres.in endpoints.
 
+Challenges :
+
+1. i do not have specific UI so it take me some time to decide what the UI i should use (in
+   companies it is UI/UX job).
+
+App notes :
+
+1. I used flutter sdk version 3.19.5
+2. I add some simple animations.
+3. I used cubit as StateManagement.
+4. I used (sqflite) as local storage.
+5. I can not edit or delete on the data in the API (I can not delete note from API database).
+6. I add edit, insert, delete, read from the local database.
+7. If there is net connection it will get the data from API.
+8. If there is not net connection it will get the data from local database.
+9. For testing code for myself i usually use print and Debug mostly on debug.
+10. The username and password in auth can not be change if you change theme than restart the app.
+11. If you want to test my code from syria you must use VPN.
+
+MUST READ :
+
+1. I made the app as i understand from the requests you ask but if there is something that is not as
+   what you want that mean i did not get what you want so you can free contact my (
+   knakri02@gmail.com) and i can do it for you.
 
 
-[//]: # (i used fultter sdk version 3.19.5)
+
